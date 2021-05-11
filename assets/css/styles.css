@@ -216,8 +216,9 @@ img{
   height:60px;
   bottom:40px;
   right:40px;
-  background-color:#06C;
+  background-color:#4070F4;
   color:#FFF;
+  opacity: 1;
   border-radius:50px;
   text-align:center;
   box-shadow: 2px 2px 3px #999;
