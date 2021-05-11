@@ -224,8 +224,8 @@ img{
 }
 
 .my-float{
-  font-size:40px;
-  margin-top:23px;
+  font-size:24px;
+  margin-top:18px;
 }
 
 a.float + div.label-container {
@@ -238,7 +238,6 @@ a.float:hover + div.label-container{
   visibility: visible;
   opacity: 1;
 }
-
 /*===== HOME =====*/
 .home{
   height: calc(100vh - 3rem);
