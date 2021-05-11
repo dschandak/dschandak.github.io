@@ -240,6 +240,11 @@ img{
 .about__subtitle{
   margin-bottom: var(--mb-2);
 }
+@media (max-width: 768px) {
+        .about__img {
+          display: none;
+        }
+      }
 .about__img{
   justify-self: center;
 }
