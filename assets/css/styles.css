@@ -230,7 +230,7 @@ img{
 
 a.float + div.label-container {
   visibility: hidden;
-  opacity: 0;
+  opacity: 1;
   transition: visibility 0s, opacity 0.5s ease;
 }
 
